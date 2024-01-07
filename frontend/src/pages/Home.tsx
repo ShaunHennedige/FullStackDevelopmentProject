@@ -25,13 +25,13 @@ const Home = () => {
         <div className="grid md:grid-cols-2 grid-cols-1 gap-4">
           {/* Mapping over top row hotels and rendering LatestDestinationCard component */}
           {topRowHotels.map((hotel) => (
-            <LatestDestinationCard key={hotel.id} hotel={hotel} />
+            <LatestDestinationCard key={hotel._id} hotel={hotel} />
           ))}
         </div>
         <div className="grid md:grid-cols-3 gap-4">
           {/* Mapping over bottom row hotels and rendering LatestDestinationCard component */}
           {bottomRowHotels.map((hotel) => (
-            <LatestDestinationCard key={hotel.id} hotel={hotel} />
+            <LatestDestinationCard key={hotel._id} hotel={hotel} />
           ))}
         </div>
       </div>
