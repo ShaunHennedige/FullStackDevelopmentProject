@@ -40,7 +40,7 @@ const MyBookings = () => {
 
             {/* Mapping over bookings for the current hotel */}
             {hotel.bookings.map((booking) => (
-              <div key={booking.id}>
+              <div key={booking._id}>
                 <div>
                   <span className="font-bold mr-2">Dates: </span>
                   <span>
