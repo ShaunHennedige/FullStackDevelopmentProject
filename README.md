@@ -9,11 +9,11 @@ Make sure you have Node.js installed on your system.
 ## User Credentials
 
 # ROOMRESERVE Credentials:
-Username: admin@test.com
+Username: admin@test.com  
 Password: admin12345
 
 # MONGODB Credentials:
-Username: admin
+Username: admin  
 Password: 12345
 
 ## Backend Configuration
@@ -30,8 +30,8 @@ JWT_SECRET_KEY=WTDAsfTnnw
 FRONTEND_URL=http://localhost:3000
 
 # Cloudinary Variables
-CLOUDINARY_CLOUD_NAME=ddgk5xpet
-CLOUDINARY_API_KEY=358892549562633
+CLOUDINARY_CLOUD_NAME=ddgk5xpet  
+CLOUDINARY_API_KEY=358892549562633  
 CLOUDINARY_API_SECRET=8yJcZwilG8XGCJJS7vpV07NJecQ
 
 # Stripe
