@@ -1,24 +1,33 @@
-This is free and unencumbered software released into the public domain.
+# ROOMRESERVE MERN App License
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+MIT License
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Version 1.0.0, January 8, 2024
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+## Contributors
 
-For more information, please refer to <https://unlicense.org>
+- Venura Deegalla - 10818175
+- Mindula Silva - 10820799
+- Shaun Hennedige - 10818172
+- Athulathmudalige Abesekara - 10818798
+- Rathnayaka Rathnayaka - 10818163
+
+## Terms and Conditions
+
+The contributors to the ROOMRESERVE MERN App ("the Software") grant you, the user, a non-exclusive, royalty-free license to use, modify, and distribute the Software, subject to the following conditions:
+
+1. **Use of the Software**: You may use the Software for any purpose, including commercial applications, without any limitations.
+
+2. **Distribution**: You may distribute the Software or any modifications of the Software to third parties, provided that the conditions in this license are met.
+
+3. **Attribution**: You must include the original README.md file, including the list of contributors and their respective contributions, in any distribution or substantial portion of the Software.
+
+4. **No Warranty**: The Software is provided "as is," without warranty of any kind, expressed or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the contributors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+5. **User Credentials**: The user credentials provided in the README.md file, including ROOMRESERVE Credentials and MONGODB Credentials, are for local development and testing purposes only. It is the user's responsibility to handle and secure any sensitive information appropriately.
+
+6. **Environment Files**: The environment files provided in the README.md file are intended for local development and testing. Users are advised to secure and manage environment variables according to their deployment environments.
+
+7. **Third-Party Dependencies**: The Software may include third-party dependencies with their own licenses. Users are responsible for complying with the terms and conditions of those licenses.
+
+By using the Software, you agree to the terms and conditions outlined in this license. If you do not agree with these terms, you are not allowed to use, modify, or distribute the Software.
