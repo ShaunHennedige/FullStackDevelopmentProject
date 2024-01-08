@@ -51,13 +51,13 @@ STRIPE_API_KEY=sk_test_51OVSpqJHXrZG3O6fWGmq7tYCbR3yETMrm26AwSOU9udtn2bPXSTaOizL
 1. **Backend**:
     - Navigate to the `backend` directory.
     - Install dependencies: `npm install`.
-    - Start the server: `npm start`.
+    - Start the server: `npm run dev`.
 
 2. **Frontend**:
     - Open a new terminal and navigate to the `frontend` directory.
     - Install dependencies: `npm install`.
     - Start the frontend application: `npm run dev`.
-    - Verify the application at `http://localhost:5173` in your terminal.
+    - Verify the application at `http://localhost:5174` in your terminal.
 
 ## Running Automated Tests
 
