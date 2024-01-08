@@ -3,7 +3,8 @@
 Venura Deegalla - 10818175 <br>
 Mindula Silva   - 10820799 <br>
 Shaun Hennedige - 10818172 <br>
-Athulathmudalige Abesekara = 10818798 <br>
+Athulathmudalige Abesekara - 10818798 <br>
+Rathnayaka Rathnayaka - 10818163 <br>
 
 
 # ROOMRESERVE MERN App Setup Guide
