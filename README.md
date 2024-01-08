@@ -1,4 +1,4 @@
-## Project Contributors
+## Project Contributors - Group 40
 
 Venura Deegalla - 10818175 <br>
 Mindula Silva   - 10820799 <br>
