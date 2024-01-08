@@ -21,6 +21,9 @@ Make sure you have Node.js installed on your system.
 Username: admin@test.com  
 Password: admin12345
 
+# Stripe Demo Credit Card
+ 4242 4242 4242 4242  with any 3 CVV number and zip code
+
 # MONGODB Credentials:
 Username: admin  
 Password: 12345
