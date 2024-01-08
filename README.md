@@ -1,3 +1,10 @@
+# Project Contributors
+
+Venura Deegalla - 10818175   
+Mindula Silva - 10820799 
+Shaun Hennedige - 10818172 
+
+
 # ROOMRESERVE MERN App Setup Guide
 
 This guide will help you set up the ROOMRESERVE Booking App on your local machine.
