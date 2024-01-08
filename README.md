@@ -1,7 +1,7 @@
 # Project Contributors
 
 Venura Deegalla - 10818175   
-Mindula Silva - 10820799 
+Mindula Silva - 10820799
 Shaun Hennedige - 10818172 
 
 
